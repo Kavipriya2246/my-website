@@ -1,0 +1,19 @@
+# Node / React
+node_modules/
+build/
+dist/
+
+# VS Code
+.vscode/
+.vscode/extensions/
+
+# System / OS / Cache files
+AppData/
+*.log
+*.tmp
+*.blb
+*.bin
+
+# Other
+.DS_Store
+Thumbs.db
